@@ -2,8 +2,8 @@
 <div>
   <h3>Meu status do github</h3>
   <div>
-    <img height = "250em" src="https://github-readme-stats.vercel.app/api?username=LucasPizol&show-icons=true&theme=dark">
-    <img height = "250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPizol&show-icons=true&theme=dark">
+    <img width="49%" height="200em" src="https://github-readme-stats.vercel.app/api?username=LucasPizol&show-icons=true&theme=dark">
+    <img width="49%" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPizol&show-icons=true&theme=dark&layout=compact">
    </div>
 </div>
 <div>
