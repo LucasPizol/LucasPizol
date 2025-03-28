@@ -12,9 +12,9 @@
     <img height="40em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png"/>
     <img height="40em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"/>
     <img height="40em" src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png"/>
-    <img height="40em" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png"/>
+    <img height="40em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"/>
     <img height="40em" src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png"/>
-    <img height="40em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"/>
+    <img height="40em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/250px-Ruby_On_Rails_Logo.svg.png"/>
   </div>
 </div>
 <hr>
